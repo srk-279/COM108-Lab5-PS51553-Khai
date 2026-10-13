@@ -15,7 +15,7 @@
 - Lỗi/Cách sửa: 
 
 ### Lần 3: Bài 2
-- Trạng thái: 
+- Trạng thái: Chờ chấm
 - Lỗi/Cách sửa: 
 
 ### Lần 4: Bài 2
@@ -23,7 +23,7 @@
 - Lỗi/Cách sửa: 
 
 ### Lần 5: Bài 3
-- Trạng thái: 
+- Trạng thái: Chờ chấm
 - Lỗi/Cách sửa: 
 
 ### Lần 6: Bài 3
